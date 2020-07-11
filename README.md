@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-![yisar's Github stats](https://github-readme-stats.vercel.app/api?username=yisar&show_icons=true)
-
+I am yisar who is a developer from Ximalaya~
 ## Links
 - zhihu: https://www.zhihu.com/132yse
 - weibo: https://weibo.com/oreshura
