@@ -37,4 +37,4 @@ Hi, I'm Yisar, a Full Stack Developer 🚀 from China, I'm the founder of 🙍 �
 - 😜 I'm focusing on fre and any other repos.
 - 💬 Ask me about anything, I am happy to help.
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=yisar&show_icons=true&hide_border=true)
+<img align="right" alt="Yisar | Twitter" width="200px" src="https://github-readme-stats.vercel.app/api?username=yisar&show_icons=true&hide_border=true" />
