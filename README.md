@@ -26,8 +26,7 @@
 <br />
 
 Hi, I'm Yisar, a Full Stack Developer 🚀 from China, I'm the founder of 🙍 ♂️ [@clicli](https://github.com/cliclitv), author of 👨 ♂️ [@fre](https://github.com/yisar/fre), and……
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+  <img align="right" alt="Yisar | Twitter" width="300px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
@@ -37,4 +36,3 @@ Hi, I'm Yisar, a Full Stack Developer 🚀 from China, I'm the founder of 🙍 �
 - 😜 I'm focusing on fre and any other repos.
 - 💬 Ask me about anything, I am happy to help.
 
-<img align="right" alt="Yisar | Twitter" width="200px" src="https://github-readme-stats.vercel.app/api?username=yisar&show_icons=true&hide_border=true" />
