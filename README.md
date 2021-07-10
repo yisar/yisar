@@ -33,6 +33,6 @@ Hi, I'm Yisar, a Full Stack Developer 🚀 from China, I'm the founder of 🙍 �
 - 👨 I’m currently working on [Trip.com](https://www.trip.com)
 - 🌱 I’m currently learning C.
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
-- 😜 I'm focusing on fre and any other repos.
+- 😜 I'm focusing on miniapp architecture.
 - 💬 Ask me about anything, I am happy to help.
 
