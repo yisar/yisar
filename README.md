@@ -17,7 +17,7 @@
 <a href="https://github.com/yisar">
   <img align="left" alt="yisar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
-<a href="https://twitter.com/132yse">
+<a href="https://twitter.com/_goujuan">
   <img align="left" alt="Yisar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
@@ -31,7 +31,7 @@ Hi, I'm Yisar, a Full Stack Developer 🚀 from China, I'm the founder of 🙍 �
 **Talking about Personal Stuffs:**
 
 - 👨 I’m currently working on [Trip.com](https://www.trip.com)
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Rust, Golang, Clang.
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 😜 I'm focusing on miniapp architecture.
 - 💬 Ask me about anything, I am happy to help.
