@@ -25,14 +25,3 @@
 
 <br />
 
-Hi, I'm Yisar, a Full Stack Developer 🚀 from China, I'm the founder of 🙍 ♂️ [@clicli](https://github.com/cliclitv), author of 👨 ♂️ [@fre](https://github.com/yisar/fre), and……
-  <img align="right" alt="Yisar | Twitter" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-  
-**Talking about Personal Stuffs:**
-
-- 👨 I’m currently working on [Trip.com](https://www.trip.com)
-- 🌱 I’m currently learning Rust, Golang, Clang.
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
-- 😜 I'm focusing on miniapp architecture.
-- 💬 Ask me about anything, I am happy to help.
-
