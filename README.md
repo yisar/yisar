@@ -22,6 +22,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-![Twitter Follow](https://img.shields.io/twitter/follow/_goujuan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_goujuan)](https://twitter.com/_goujuan)
+
 <br />
 
