@@ -17,7 +17,7 @@
 <a href="https://github.com/yisar">
   <img align="left" alt="yisar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
-<a href="https://twitter.com/_goujuan">
+<a href="https://twitter.com/itianjio">
   <img align="left" alt="Yisar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
