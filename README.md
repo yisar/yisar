@@ -21,7 +21,7 @@
   <img align="left" alt="Yisar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/yisar-github-readme)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_goujuan)](https://twitter.com/_goujuan)
 
 <br />
