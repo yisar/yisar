@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Yisar!](https://www.zhihu.com/people/132yse) 
 
-暂退，换个地方浪！
+暂退，换个地方浪！（QQ+ 1533540012 wx+ shibuyayuri）
 
 <br/>
 
