@@ -1,6 +1,8 @@
 ### Hey 👋🏽, I'm [Yisar!](https://www.zhihu.com/people/132yse) 
 
-暂退，换个地方浪！（QQ+ 1533540012 wx+ shibuyayuri）
+满血复活！没死就是还活着！
+1. 工作 remote，在青岛
+2. 独立开发c站，https://app.clicli.cc
 
 <br/>
 
@@ -24,7 +26,7 @@
 </a>
 
 ![](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/yisar-github-readme)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_goujuan)](https://twitter.com/_goujuan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_goujuan)](https://twitter.com/_132ysr)
 
 <br />
 
