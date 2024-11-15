@@ -1,8 +1,8 @@
 ### Hey 👋🏽, I'm [Yisar!](https://www.zhihu.com/people/132yse) 
 
 满血复活！没死就是还活着！
-1. 工作 remote，在青岛
-2. 独立开发c站，https://app.clicli.cc
+1. 工作 remote，肉身在青岛
+2. 独立开发c站，https://www.clicli.cc
 
 <br/>
 
@@ -21,7 +21,7 @@
 <a href="https://github.com/yisar">
   <img align="left" alt="yisar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
-<a href="https://twitter.com/itianjio">
+<a href="https://twitter.com/132ysr">
   <img align="left" alt="Yisar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
