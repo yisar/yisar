@@ -26,7 +26,7 @@
 </a>
 
 ![](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/yisar-github-readme)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_goujuan)](https://twitter.com/_132ysr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/132ysr)](https://twitter.com/132ysr)
 
 <br />
 
