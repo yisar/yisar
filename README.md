@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Yisar!](https://www.zhihu.com/people/132yse) 
 
 满血复活！没死就是还活着！
-1. 工作 remote，肉身在青岛
+1. 武汉研0在读
 2. 独立开发c站，https://www.clicli.cc
 
 <br/>
