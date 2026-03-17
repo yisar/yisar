@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Yisar!](https://www.zhihu.com/people/132yse) 
 
 满血复活！没死就是还活着！
-1. 武汉研0在读
+1. 武汉研1在读，主要方向是遥感深度学习
 2. 独立开发新坑 https://www.danmu.me
 
 <br/>
